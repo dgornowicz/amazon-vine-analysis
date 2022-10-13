@@ -14,36 +14,39 @@ We focused on the US reviews for video games.
 - Vine reviews <p align="center">
      
 </p>
-
+<img width="193" alt="total_reviews" src="https://user-images.githubusercontent.com/102050273/195716076-c3c96e55-f2f0-4f0d-a633-fb88fa5a735f.png">
 <br>
 
 - Non-Vine reviews <p align="center">
      
 </p>
+<img width="218" alt="unpaid_reviews" src="https://user-images.githubusercontent.com/102050273/195716110-712b85db-b3b2-43a4-b2f8-f7426980f5b6.png">
 <br>
 
 ### Total number of 5-star reviews
 - Vine reviews <p align="center">
      
 </p>
-
+<img width="365" alt="paid5star_reviews" src="https://user-images.githubusercontent.com/102050273/195716165-a50197c7-8f0a-4d73-9304-9cc499d24281.png">
 <br>
 
 - Non-Vine reviews <p align="center">
      
 </p>
+<img width="386" alt="unpaid5star_reviews" src="https://user-images.githubusercontent.com/102050273/195716201-f6f946fa-9a84-4634-b61e-a0ce83f19df4.png">
 <br>
 
 ### Percentage of 5-star reviews
 - Vine reviews <p align="center">
      
 </p>
-
+<img width="382" alt="paid5star_rate" src="https://user-images.githubusercontent.com/102050273/195716222-c458a218-70c2-4727-b4db-74c723d72c0a.png">
 <br>
 
 - Non-Vine reviews <p align="center">
      
 </p>
+<img width="412" alt="unpaid5star_rate" src="https://user-images.githubusercontent.com/102050273/195716243-3d98bbc0-d53d-47b8-a178-0ea9a44327e0.png">
 <br>
 
 ## Summary
